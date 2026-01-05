@@ -1,0 +1,8 @@
+requests
+opencv-python
+numpy
+pytesseract
+fuzzywuzzy
+python-Levenshtein
+Pillow
+pyautogui
