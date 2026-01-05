@@ -69,3 +69,6 @@ python main.py
     ├── data_loader.py # API fetching and offline backup
     └── utils.py       # DPI fixes and screenshots
 ```
+
+Here are demo videos:
+https://drive.google.com/drive/folders/1-7RU1gmNba4OeQc542eedBYh_QWFEGXF?usp=sharing
