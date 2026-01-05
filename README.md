@@ -4,8 +4,8 @@ A high-accuracy Python automation agent that dynamically locates desktop icons u
 
 ##  Core Logic & Flow
 
-### 1. Data Fetching (The Provider)
-The bot first attempts to fetch 10 blog posts from an external API. 
+### 1. Data Fetching
+The code first attempts to fetch 10 blog posts from an external API. 
 
 ### 2. Multi-Layered Vision Grounding 
 To find the Notepad icon with high accuracy:
@@ -30,13 +30,12 @@ To find the Notepad icon with high accuracy:
 
 ## Installation
 
-You can install dependencies using **uv**  or **pip**:
 
 ```bash
-# Using uv
-uv pip install -r requirements.txt
-
-# Or using standard pip
+git clone https://github.com/SalmaAhmedHafez/tjm
+cd tjm
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
