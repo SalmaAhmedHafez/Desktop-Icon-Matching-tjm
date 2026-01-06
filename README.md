@@ -32,7 +32,7 @@ To find the Notepad icon with high accuracy:
 
 
 ```bash
-git clone https://github.com/SalmaAhmedHafez/tjm
+git clone https://github.com/SalmaAhmedHafez/Desktop-Icon-Matching-tjm
 cd tjm
 python -m venv venv
 venv\Scripts\activate
